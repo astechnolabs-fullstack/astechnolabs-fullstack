@@ -1,6 +1,11 @@
 ### Hi there 👋 ASTechnolabs Here,
 
-![](https://komarev.com/ghpvc/?username=astechnolabs-fullstack)
+![](https://komarev.com/ghpvc/?username=astechnolabs-fullstack&color=red&style=plastic)
+
+
+- ⚡ Languages: iONIC, Angular, HTML, CSS, PHP, Javascript Jquery, Photoshop, Illustrator, Canva, Figma, Unity
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astechnolabs-fullstack&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **astechnolabs-fullstack/astechnolabs-fullstack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
