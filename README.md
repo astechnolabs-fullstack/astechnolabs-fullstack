@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=astechnolabs-fullstack&color=red&style=plastic)
 
 
-- ⚡ Languages: iONIC, Angular, HTML, CSS, PHP, Javascript Jquery, Photoshop, Illustrator, Canva, Figma, Unity
+- ⚡ Languages: iONIC, Angular, HTML, CSS, Unity, NodeJS, PHP, Javascript Jquery, Photoshop, Illustrator, Canva, Figma
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=astechnolabs-fullstack)
 
