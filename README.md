@@ -3,8 +3,6 @@
 ![](https://komarev.com/ghpvc/?username=astechnolabs-fullstack&color=red&style=plastic)
 
 
-- ⚡ Languages: React Native, iONIC, Angular, HTML, CSS, Unity, NodeJS, PHP, Javascript Jquery, Photoshop, Illustrator, Canva, Figma
-
 Hello and thank you for visiting my profile! I am a Top-Rated Full Stack Developer with over 9+ years of experience, specializing in React Native, PHP, Node.js, Angular, Wordpress, Shopify and Games development. I have successfully completed 80+ projects work with 100% client satisfaction across various.
 
 With 9+ years of expertise, I bridge the gap between complex backend logic and intuitive user experiences. I develop full-cycle solutions for web and mobile (iPhone/iPad/Android) with a deep focus on responsive design and performance. My technical workflow covers everything from API architecture to frontend development, ensuring every line of code is 'full-proof' through comprehensive unit testing.
@@ -43,6 +41,7 @@ Technologies and concepts I deal with:
 - Android Native
 - iOS Native
 - Objective C | Swift | Java
+- Unity
 
 ### **Game Development**
 - Adventure
